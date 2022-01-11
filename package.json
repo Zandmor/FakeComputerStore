@@ -1,0 +1,22 @@
+{
+  "name": "fakecomputerstore",
+  "version": "1.0.0",
+  "description": "\"# FakeComputerStore\"",
+  "main": "HomePage.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zandmor/FakeComputerStore.git"
+  },
+  "author": "Atir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zandmor/FakeComputerStore/issues"
+  },
+  "homepage": "https://github.com/Zandmor/FakeComputerStore#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
